@@ -1,0 +1,30 @@
+{
+  "joseTeste": [
+    {
+      "nome": "José da Silva",
+      "senha": "senhaSegura123",
+      "idade": 25
+    },
+    {
+      "nome": "Maria José",
+      "senha": "12345Senha!",
+      "idade": 30
+    },
+    {
+      "nome": "Carlos José",
+      "senha": "CarlosSenha2023",
+      "idade": 28
+    },
+    {
+      "nome": "Ana José",
+      "senha": "AnaJose2024@",
+      "idade": 0
+    },
+    {
+      "nome": "Pedro José",
+      "senha": "PedroSenha$99",
+      "idade": 0
+    }
+  ]
+}
+
