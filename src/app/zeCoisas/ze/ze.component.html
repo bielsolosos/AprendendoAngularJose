@@ -5,9 +5,6 @@
 <button class="h-3rem w-10rem" (click)="trocar()">
   {{ taFunfando ? "desaparecer" : "aparecer" }}
 </button>
-<button class="h-3rem w-10rem" (click)="mostrarJoses()">
-  renderizar da Api
-</button>
 <div *ngFor="let item of dados" class="grid gap-2 m-2">
   @if(item.idade == 0){
   <p class="col-3">{{ item.nome }}</p>
