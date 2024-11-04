@@ -1,0 +1,12 @@
+<div class="grid h-7rem w-7rem">
+  <input
+    class="bg-white"
+    type="text"
+    [value]="'testecaralho'"
+    [disabled]="ativadoOuDesativado"
+  />
+  <button class="h-1rem bg-green-800 h-2rem" (click)="ativar()">Ativar</button>
+  <button class="h-1rem bg-red-900 h-2rem" (click)="desativar()">
+    desativar
+  </button>
+</div>
